@@ -1,0 +1,57 @@
+.bar{
+    width: 25px;
+    height: 3px;
+    background-color:white;
+    margin: 5px 0;
+
+  
+    
+}
+
+.toggler{
+    background-color:white;
+    border-radius: 50%;
+    
+    padding:10px;
+    position: fixed;
+    z-index:50;
+    box-shadow: 2px 4px 3px grey;
+    
+    
+}
+
+.login{
+    background-color: #fff;
+    border:black solid 2px;
+    padding: 6px 24px;
+    font-weight: 700;
+    color: black;
+    box-shadow: 2px 4px 3px grey;
+    
+
+    
+}
+
+.login:hover{
+    background-color: black;
+    color: white;
+}
+
+.signup:hover{
+    background-color: black;
+    color: white;
+}
+.signup{
+    background-color:white;
+    color: black;
+    padding: 6px 24px;
+    font-weight: 700;
+    box-shadow: 2px 4px 3px grey;
+    border: solid 2px black;
+   
+}
+
+.navbar{
+    position: relative;
+    z-index: 1;
+}
